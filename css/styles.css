@@ -11567,6 +11567,16 @@ html {
   background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
 }
 
+.bg-imotvet {
+  background: #de1a22;
+}
+
+.text-imotvet {
+  background: #de1a22;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .text-gradient {
   background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
   -webkit-background-clip: text;
